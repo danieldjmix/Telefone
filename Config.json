@@ -1,5 +1,5 @@
 {
-  "Version": "42",
+  "Version": "43",
   "ReleaseNotes": "Atualização disponível",
   "UrlUpdate": "https://github.com/danieldjmix/Telefone/raw/refs/heads/main/Config.json",
   "Sms": "",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "42-BR",
+      "Name": "43-BR",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "185.194.204.66",
