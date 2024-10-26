@@ -35,6 +35,16 @@
       "ProxyIP": "185.194.204.66",
       "ProxyPort": "80",
       "Info": "Proxy"     
+    },
+    {
+      "Name": "🟣 VIVO",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 185.194.204.66[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "185.194.204.66",
+      "TlsIP": "185.194.204.66",
+      "ProxyIP": "185.194.204.66",
+      "ProxyPort": "80",
+      "Info": "Proxy"     
     }
   ]
 }
